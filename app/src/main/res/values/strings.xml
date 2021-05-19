@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Iguales</string>
+    <string name="text_play">Jugar</string>
+    <string name="text_exit">" Salir"</string>
+    <string name="text_restart">Jugar otra vez</string>
+    <string name="text_game_over">No has ganado</string>
+    <string name="text_win">Felicidad!</string>
+</resources>
